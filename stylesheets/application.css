@@ -1,0 +1,8 @@
+/* load the default Redmine stylesheet */
+@import url(../../../stylesheets/application.css);
+
+textarea.wiki-edit {
+  height: 590px;
+/*  background: red; */
+}
+
