@@ -6,3 +6,9 @@ textarea.wiki-edit {
 /*  background: red; */
 }
 
+#content {
+  width: 82%;
+}
+#sidebar {
+  width: 15%;
+}
